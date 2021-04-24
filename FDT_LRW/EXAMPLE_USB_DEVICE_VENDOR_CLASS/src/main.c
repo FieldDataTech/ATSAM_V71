@@ -7,7 +7,7 @@
 		CRITICAL CONFIGS
 ***********************************************************************/
 #define HAS_CAM
-//#define RESPOND_TO_TINY
+#define RESPOND_TO_TINY
 #define USE_TE_ALTIMETER	//uses the old barometer
 /*TSHOOT DEFINES*/
 #define DO_DIAGS
